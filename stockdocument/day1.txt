@@ -1,0 +1,28 @@
+1. git add
+Purpose: Adds changes to the staging area.
+
+Example:
+git add filename → Stages a specific file.
+git add . → Stages all changes in the current directory.
+
+Meaning:
+"I am preparing these files to be committed."
+
+2. git status
+Purpose: Shows the status of files in the working directory and staging area.
+
+Example:
+git status
+
+Meaning:
+"Which files are staged, which are modified, and which are untracked?"
+
+3. git log
+Purpose: Shows the commit history.
+
+Example:
+git log
+
+Meaning:
+"Show me the list of all commits with their IDs, messages, and authors."
+
